@@ -16,6 +16,9 @@
     "express",
     "js"
   ],
+  "engines": {
+    "node": ">=14.20.1"
+  },
   "author": "Tim Kabue",
   "license": "ISC",
   "bugs": {
